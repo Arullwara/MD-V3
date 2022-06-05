@@ -1,27 +1,27 @@
 //=============『 Utama 』================== //
-global.owner = ['6287892711054'] 
+global.owner = ['6285822347348'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hyzer Official'
-global.numberowner = '6287892711054'
-global.instagram = 'https://instagram.com/hyzer_stfu'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '087892711054'
-global.pulsa = '085212023766'
-global.gopay = '087892711054'
+global.nameowner = 'Arull Official'
+global.numberowner = '6285822347348'
+global.instagram = 'https://instagram.com/sahrulwara_____'
+global.github = 'https://github.com/Arullwara'
+global.dana = '085822347348'
+global.pulsa = '085822347348'
+global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
-global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
-global.web = 'https://zex-api.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'ArullBotz-𝙼𝙳'
+global.gc = 'https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1'
+global.web = 'https://instagram.com/sahrulwara_____' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.wm = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm = 'ArullBotz-𝙼𝙳'
 global.watermark = wm
-global.wm2 = '                     「 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳 あ⁩ 」'
-global.wm3 = '⫹⫺ 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm2 = '                     「 ArullBotz-𝙼𝙳 あ⁩ 」'
+global.wm3 = '⫹⫺ ArullBotz-𝙼𝙳'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.thumbnail = 'https://telegra.ph/file/7982576e5be06907364c5.jpg'
